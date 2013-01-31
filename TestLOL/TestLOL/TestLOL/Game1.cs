@@ -92,6 +92,14 @@ namespace TestLOL
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
+            //HAHAHA
+            // DETTE LOL LALALALLALALALA
+            //LLALALALALA
+            //ALALLALALA
+            //ALALLALALSJDAKSJDOASIDHASØODHASOD
+            //LJAHSDPIAHSDPUHASPDU
+            //ALOLASDOALSDAOSDALSDOASDLAOSDLASDOA
+            //ØALSDØAJNDSØOASDNAOUSDHASDØOI
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
